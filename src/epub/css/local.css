@@ -13,3 +13,35 @@ footer{
 	margin-top: 1em;
 	text-align: right;
 }
+
+[epub|type~="se:letter.dateline"] + p{
+	text-indent: 0;
+}
+
+[epub|type~="z3998:verse"] p{
+	text-align: left;
+	text-indent: 0;
+}
+
+[epub|type~="z3998:verse"] p > span{
+	display: block;
+	text-indent: -1em;
+	padding-left: 1em;
+}
+
+[epub|type~="z3998:verse"] p > span + br{
+	display: none;
+}
+
+blockquote header p{
+	text-align: center;
+	text-indent: 0;
+}
+
+blockquote header > p:first-child{
+	font-variant: small-caps;
+}
+
+blockquote header > p + p{
+	font-style: italic;
+}
