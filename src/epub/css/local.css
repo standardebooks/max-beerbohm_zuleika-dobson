@@ -52,3 +52,14 @@ section[epub|type~="halftitlepage"] span[epub|type~="subtitle"]{
 	font-size: .75em;
 	font-weight: normal;
 }
+
+section[epub|type~="epigraph"]{
+	text-align: center;
+}
+
+section[epub|type~="epigraph"] p{
+	margin: 25% auto;
+	text-align: center;
+	text-indent: 0;
+	font-variant: small-caps;
+}
