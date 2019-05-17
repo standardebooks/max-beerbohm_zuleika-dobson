@@ -26,7 +26,7 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Zuleika Dobson</dc:title>
 		<meta property="file-as" refines="#title">Zuleika Dobson</meta>
 		<meta property="title-type" refines="#title">main</meta>
@@ -42,22 +42,26 @@
 		<dc:subject id="subject-4">College students -- Fiction</dc:subject>
 		<dc:subject id="subject-5">University of Oxford -- Fiction</dc:subject>
 		<dc:subject id="subject-6">Oxford (England) -- Fiction</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/1845</meta>
-		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/1845</meta>
-		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/1845</meta>
-		<meta property="meta-auth" refines="#subject-4">https://www.gutenberg.org/ebooks/1845</meta>
-		<meta property="meta-auth" refines="#subject-5">https://www.gutenberg.org/ebooks/1845</meta>
-		<meta property="meta-auth" refines="#subject-6">https://www.gutenberg.org/ebooks/1845</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh2008114026</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">Unknown</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh85028346</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">sh2008100489</meta>
+		<meta property="authority" refines="#subject-5">LCSH</meta>
+		<meta property="term" refines="#subject-5">Unknown</meta>
+		<meta property="authority" refines="#subject-6">LCSH</meta>
+		<meta property="term" refines="#subject-6">sh2008116465</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Satire</meta>
 		<dc:description id="description">A beautiful magician unsuspectingly casts her charms on quiet Oxford.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Max Beerbohm earned his fame as a caricaturist and essayist, and &lt;i&gt;Zuleika Dobson&lt;/i&gt; is his only novel. Despite that, &lt;i&gt;Zuleika&lt;/i&gt; has earned no small measure of fame, with the Modern Library ranking it 59th in its “100 Best English-Language Novels of the 20th Century.” Beerbohm’s essays were famous for their sharp wit and humor, and &lt;i&gt;Zuleika&lt;/i&gt; follows in that tradition—Beerbohm himself called the novel “the work of a leisurely essayist amusing himself with a narrative idea.”&lt;/p&gt;
 			&lt;p&gt;The novel follows Zuleika Dobson, a rather talentless woman of middling looks who nonetheless holds an almost mystical power of attraction over the men she comes in contact with. When she begins attending Oxford, she catches the eye of not just the Duke of Dorset, but of the entire male class.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Zuleika&lt;/i&gt; is both an easy comedy and a biting satire of Edwardian social mores and of the male-dominated Oxford student culture. Beerbohm also seems to forecast with eerie accuracy the cultural obsession with talentless celebrity that came to dominate the turn of the 21st century.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1845</dc:source>
 		<dc:source>https://books.google.com/books?id=ko0NAAAAYAAJ</dc:source>
