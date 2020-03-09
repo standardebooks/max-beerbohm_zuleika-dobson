@@ -65,8 +65,8 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1845</dc:source>
 		<dc:source>https://books.google.com/books?id=ko0NAAAAYAAJ</dc:source>
-		<meta property="se:word-count">81906</meta>
-		<meta property="se:reading-ease.flesch">74.49</meta>
+		<meta property="se:word-count">81909</meta>
+		<meta property="se:reading-ease.flesch">74.39</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Zuleika_Dobson</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/max-beerbohm_zuleika-dobson</meta>
 		<dc:creator id="author">Max Beerbohm</dc:creator>
