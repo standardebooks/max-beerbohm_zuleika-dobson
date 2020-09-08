@@ -42,12 +42,6 @@ blockquote header > p + p{
 	font-style: italic;
 }
 
-section[epub|type~="halftitlepage"] span[epub|type~="subtitle"]{
-	display: block;
-	font-size: .75em;
-	font-weight: normal;
-}
-
 /* All epigraphs */
 [epub|type~="epigraph"]{
 	font-style: italic;
