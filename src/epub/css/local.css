@@ -42,6 +42,12 @@ blockquote header > p + p{
 	font-style: italic;
 }
 
+[epub|type~="z3998:postscript"]{
+	margin-top: 1em;
+	text-align: initial;
+	text-indent: 0;
+}
+
 /* All epigraphs */
 [epub|type~="epigraph"]{
 	font-style: italic;
