@@ -59,6 +59,9 @@
 		<meta id="collection-1" property="belongs-to-collection">Modern Library’s 100 Best Novels</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="group-position" refines="#collection-1">59</meta>
+		<meta id="collection-2" property="belongs-to-collection">The Guardian’s best 100 novels in English (2015)</meta>
+		<meta property="collection-type" refines="#collection-2">set</meta>
+		<meta property="group-position" refines="#collection-2">40</meta>
 		<dc:description id="description">A beautiful magician unsuspectingly casts her charms on quiet Oxford.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/max-beerbohm"&gt;Max Beerbohm&lt;/a&gt; earned his fame as a caricaturist and essayist, and &lt;i&gt;Zuleika Dobson&lt;/i&gt; is his only novel. Despite that, &lt;i&gt;Zuleika&lt;/i&gt; has earned no small measure of fame, with the Modern Library ranking it 59th in its “100 Best English-Language Novels of the 20th Century.” Beerbohm’s essays were famous for their sharp wit and humor, and &lt;i&gt;Zuleika&lt;/i&gt; follows in that tradition—Beerbohm himself called the novel “the work of a leisurely essayist amusing himself with a narrative idea.”&lt;/p&gt;
