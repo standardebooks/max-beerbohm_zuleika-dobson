@@ -54,10 +54,6 @@ blockquote header > p + p{
 	hyphens: none;
 	-epub-hyphens: none;
 }
-
-[epub|type~="epigraph"] i{
-	font-style: normal;
-}
 /* End all epigraphs */
 
 /* Full-page epigraphs */
