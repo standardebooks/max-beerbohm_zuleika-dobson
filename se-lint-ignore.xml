@@ -2,7 +2,7 @@
 <se-lint-ignore>
 	<file path="chapter-3.xhtml">
 		<ignore>
-			<code>t-043</code>
+			<code>t-042</code>
 			<reason>Matched text not a dialog tag.</reason>
 		</ignore>
 	</file>
