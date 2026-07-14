@@ -36,7 +36,7 @@
 		<meta property="title-type" refines="#subtitle">subtitle</meta>
 		<dc:title id="fulltitle">Zuleika Dobson; Or, an Oxford Love Story</dc:title>
 		<meta property="file-as" refines="#fulltitle">Zuleika Dobson; Or, an Oxford Love Story</meta>
-		<meta property="title-type" refines="#fulltitle">extended</meta>
+		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<dc:subject id="subject-1">Young women -- Fiction</dc:subject>
 		<dc:subject id="subject-2">Love stories</dc:subject>
 		<dc:subject id="subject-3">College stories</dc:subject>
