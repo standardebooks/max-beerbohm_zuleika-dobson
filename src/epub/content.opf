@@ -63,7 +63,7 @@
 		<meta id="collection-2" property="belongs-to-collection">The Guardian’s Best 100 Novels in English (2015)</meta>
 		<meta property="collection-type" refines="#collection-2">set</meta>
 		<meta property="group-position" refines="#collection-2">40</meta>
-		<dc:abstract>A beautiful magician unsuspectingly casts her charms on quiet Oxford.</dc:abstract>
+		<meta property="schema:abstract">A beautiful magician unsuspectingly casts her charms on quiet Oxford.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/max-beerbohm"&gt;Max Beerbohm&lt;/a&gt; earned his fame as a caricaturist and essayist, and &lt;i&gt;Zuleika Dobson&lt;/i&gt; is his only novel. Despite that, &lt;i&gt;Zuleika&lt;/i&gt; has earned no small measure of fame, with the Modern Library ranking it 59th in its “100 Best English-Language Novels of the 20th Century.” Beerbohm’s essays were famous for their sharp wit and humor, and &lt;i&gt;Zuleika&lt;/i&gt; follows in that tradition—Beerbohm himself called the novel “the work of a leisurely essayist amusing himself with a narrative idea.”&lt;/p&gt;
 			&lt;p&gt;The novel follows Zuleika Dobson, a rather talentless woman of middling looks who nonetheless holds an almost mystical power of attraction over the men she comes in contact with. When she begins attending Oxford, she catches the eye of not just the Duke of Dorset, but of the entire male class.&lt;/p&gt;
