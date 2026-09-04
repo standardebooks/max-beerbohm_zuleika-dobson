@@ -37,12 +37,12 @@
 		<dc:title id="fulltitle">Zuleika Dobson; Or, an Oxford Love Story</dc:title>
 		<meta property="file-as" refines="#fulltitle">Zuleika Dobson; Or, an Oxford Love Story</meta>
 		<meta property="title-type" refines="#fulltitle">expanded</meta>
-		<dc:subject id="subject-1">Young women -- Fiction</dc:subject>
+		<dc:subject id="subject-1">Young women--Fiction</dc:subject>
 		<dc:subject id="subject-2">Love stories</dc:subject>
 		<dc:subject id="subject-3">College stories</dc:subject>
-		<dc:subject id="subject-4">College students -- Fiction</dc:subject>
-		<dc:subject id="subject-5">University of Oxford -- Fiction</dc:subject>
-		<dc:subject id="subject-6">Oxford (England) -- Fiction</dc:subject>
+		<dc:subject id="subject-4">College students--Fiction</dc:subject>
+		<dc:subject id="subject-5">University of Oxford--Fiction</dc:subject>
+		<dc:subject id="subject-6">Oxford (England)--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008114026</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
